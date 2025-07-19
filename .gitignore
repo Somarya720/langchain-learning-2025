@@ -1,2 +1,6 @@
+# Environment
 .env
+
+# Jupyter
 .ipynb_checkpoints/
+anaconda_projects/db/
